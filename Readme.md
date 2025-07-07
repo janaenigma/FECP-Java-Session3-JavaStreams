@@ -14,4 +14,4 @@ Submitted by: Baruc, Jana Enigma S.
 ![Activity 4: Combine Predicates](act%204.png)
 
 ### Activity 5: Sort Objects Using Comparator
-![Activity 5: Sort Objects Using Comparator](giact%205.png)
+![Activity 5: Sort Objects Using Comparator](act%205.png)
