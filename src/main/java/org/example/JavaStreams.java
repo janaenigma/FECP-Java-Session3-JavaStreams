@@ -55,6 +55,7 @@ public class JavaStreams {
         System.out.println("\nEven and >5: " + evenNums);
     }
 
+    // Activity 5: Sort Objects Using Comparators
     public static void comparatorSort(){
         List<Person> people = Arrays.asList(
                 new Person("Jana", 23),
